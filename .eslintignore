@@ -1,0 +1,8 @@
+vue.config.js
+webpack-plugins
+public/static
+/src/assets/js/webworker-map.js
+/iconTheme/
+/imgTheme/
+/imgThemeCopy/
+/iconThemeCopy/
