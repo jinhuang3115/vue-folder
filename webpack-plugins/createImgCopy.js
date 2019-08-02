@@ -3,7 +3,7 @@ const path = require('path');
 const rimraf = require('rimraf');
 const crypto = require('crypto');
 const imgThemePath = path.join(__dirname, '../imgTheme');
-const domain = 'https://chaindown-oss.oss-cn-hongkong.aliyuncs.com/static/';
+const domain = '';
 const ossImgName = 'images';
 const outPutDir = path.join(__dirname, '../imgThemeCopy');
 

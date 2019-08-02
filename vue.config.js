@@ -40,7 +40,7 @@ module.exports = {
     open: true,
 /*    proxy: {
       '/fe-ex-api': {
-        target: 'http://bikiwebapi.chaindown.com',
+        target: '',
         pathRewrite: {
           '^/fe-ex-api': '',
         },
